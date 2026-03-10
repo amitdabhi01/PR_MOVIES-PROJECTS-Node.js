@@ -70,7 +70,7 @@ MOVIE-PROJECT <br>
 
 # 🌐 Live API
 
-https://movie-project-n1g5.onrender.com
+https://pr-movies-projects-node-js.onrender.com/
 
 
 # 📦 Dependencies
@@ -140,38 +140,38 @@ DELETE /movies/delete/:id
 
 **Server Check**
 
-<img width="1919" height="1015" alt="Screenshot 2026-03-09 212835" src="https://github.com/user-attachments/assets/b38e394c-2cbb-4641-95f0-728417e0e9c0" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124317" src="https://github.com/user-attachments/assets/e4b44b4c-829b-4a6e-91f0-10f33392a9bc" />
 
 **Add Movie**
 
-<img width="1919" height="1018" alt="Screenshot 2026-03-09 212902" src="https://github.com/user-attachments/assets/37dbc1cc-2304-4769-a248-71bc282db458" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124323" src="https://github.com/user-attachments/assets/5c9b7165-6701-4f0c-984d-e0bd30d64f52" />
 
 **Get All Movies**
 
-<img width="1919" height="1020" alt="Screenshot 2026-03-09 212932" src="https://github.com/user-attachments/assets/45848820-8ad6-4e59-94f0-f91046d35076" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124329" src="https://github.com/user-attachments/assets/61d47b1d-263c-4d8c-8e2c-ec569e62432a" />
 
 
 **Get Single Movie**
 
-<img width="1919" height="1019" alt="Screenshot 2026-03-09 213007" src="https://github.com/user-attachments/assets/59a9281c-3da5-40d7-9fd0-d1a59f25fc56" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124336" src="https://github.com/user-attachments/assets/afdaf5d3-ec1d-4dfc-9233-27ebd272c48b" />
 
 
 **Update Movie**
 
-<img width="1919" height="1022" alt="Screenshot 2026-03-09 213039" src="https://github.com/user-attachments/assets/b1d0ada2-f0fd-43ae-9f13-03008b9ab5c0" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124347" src="https://github.com/user-attachments/assets/86cf72e3-aad9-4d90-a4ba-43a0ecb73071" />
 
 
 **Delete Movie**
 
-<img width="1919" height="1023" alt="Screenshot 2026-03-09 213103" src="https://github.com/user-attachments/assets/a0da86aa-8522-4385-b2d3-e7ee01f78643" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 124341" src="https://github.com/user-attachments/assets/add69c07-63df-4153-bfb8-aa5073f48bc1" />
+
 
 
 # ⚙️ Installation
 
 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/movie-project.git
+https://github.com/amitdabhi01/PR_MOVIES-PROJECTS-Node.js.git
 
 2️⃣ Go to Project Folder
 
@@ -200,4 +200,5 @@ npm run dev
 Server will run on:
 
 http://localhost:5000
+
 
