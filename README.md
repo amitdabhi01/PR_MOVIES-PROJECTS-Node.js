@@ -141,29 +141,41 @@ DELETE /movies/delete/:id
 **Server Check**
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-10 124317" src="https://github.com/user-attachments/assets/e4b44b4c-829b-4a6e-91f0-10f33392a9bc" />
+<br/>
+<br/>
 
 **Add Movie**
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-10 124323" src="https://github.com/user-attachments/assets/5c9b7165-6701-4f0c-984d-e0bd30d64f52" />
+<br/>
+<br/>
 
 **Get All Movies**
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-10 124329" src="https://github.com/user-attachments/assets/61d47b1d-263c-4d8c-8e2c-ec569e62432a" />
+<br/>
+<br/>
 
 
 **Get Single Movie**
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-10 124336" src="https://github.com/user-attachments/assets/afdaf5d3-ec1d-4dfc-9233-27ebd272c48b" />
+<br/>
+<br/>
 
 
 **Update Movie**
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-10 124347" src="https://github.com/user-attachments/assets/86cf72e3-aad9-4d90-a4ba-43a0ecb73071" />
+<br/>
+<br/>
 
 
 **Delete Movie**
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-10 124341" src="https://github.com/user-attachments/assets/add69c07-63df-4153-bfb8-aa5073f48bc1" />
+<br/>
+<br/>
 
 
 
